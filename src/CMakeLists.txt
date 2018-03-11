@@ -1,0 +1,1 @@
+add_executable(extract_giga_word_pair main.cpp)

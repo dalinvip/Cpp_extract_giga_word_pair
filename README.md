@@ -1,2 +1,2 @@
-# C-_extract_giga_word_pair
+# Cpp_extract_giga_word_pair
 extract_giga_word_pair implement in c++
